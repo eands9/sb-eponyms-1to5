@@ -12,14 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"praline", sentence:""))
-        list.append(Word(word:"magnolia", sentence:""))
-        list.append(Word(word:"boysenberry", sentence:""))
-        list.append(Word(word:"hosta", sentence:""))
-        list.append(Word(word:"poinsettia", sentence:""))
-        list.append(Word(word:"macadamia", sentence:""))
-        list.append(Word(word:"salmonella", sentence:""))
-        list.append(Word(word:"newton", sentence:""))
-        list.append(Word(word:"saxophone", sentence:""))
+        list.append(Word(word:"tortoni", sentence:""))
+        list.append(Word(word:"greengage", sentence:""))
+        list.append(Word(word:"angstrom", sentence:""))
+        list.append(Word(word:"gardenia", sentence:""))
+        list.append(Word(word:"melba", sentence:""))
+        list.append(Word(word:"tantalize", sentence:""))
+        list.append(Word(word:"zinnia", sentence:""))
+        list.append(Word(word:"quisling", sentence:""))
+        list.append(Word(word:"begonia", sentence:""))
+        list.append(Word(word:"samaritan", sentence:""))
     }
 }
